@@ -105,3 +105,17 @@ C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cach
 C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToNewsletter.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipTypes.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipType.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNullableDateTimeToCustomer.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.ModifyMovieGenre.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+C:\Users\cioch\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreMoviesController.resources
